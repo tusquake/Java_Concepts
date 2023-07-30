@@ -1,0 +1,5 @@
+Whenever there is a exception,the method in which exception occurs
+will create an object and that object will store three things
+1.exception name
+2.description
+3.stack trace
